@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/code/jbridges-onu_core/install/1287800F1/linux_build_system/package/addons/system_utils/expat'
+let g:netrw_dirhist_2='/etc/network'
+let g:netrw_dirhist_3='/code/jbridges_mosaic_os_onu/bld_ibont_602/packages/extract/ngpon2_ont_discovery_activation-6.0.4-1jeb.src'
+let g:netrw_dirhist_4='/code/jbridges-packages/package/ont_omcid/main/install/make/libncclient'
+let g:netrw_dirhist_5='/code/jbridges_mosaic_os_onu/mosaic_os_onu/src/sfu_bcm68580/bcm963xx_5.02L.04/bcmdrivers/broadcom/char/gpon/impl6/stack/ngpon/state_machine'
